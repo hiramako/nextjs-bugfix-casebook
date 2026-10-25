@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-bugfix-casebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vitest": "^2.1.9"
+  },
+  "private": true
+}
